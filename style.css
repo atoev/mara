@@ -1,0 +1,90 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline ; 
+}
+
+
+.avatar{
+   width: 200px;
+   border-radius: 20px;
+   box-shadow: 4px 4px 14px rgb(0, 0, 0);
+}
+.info p{ 
+    color: #86898f;
+    margin: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
+.glava{
+    max-width: 75%;
+    margin: auto;
+}
+.social{ 
+    padding: 15px;
+}
+.bg-yellow{
+    background-color: #fff9dc;
+}
+.bg-green{
+    background-color: #e5ffe7;
+}
+.bg-red{
+    background-color: #ffe5e5;
+}
+.card{
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.card h2{
+    margin:10xp;
+}
+.list{
+    padding: 0px 20px;
+}
+.list li{
+    color: #86898f;
+    margin-bottom: 10px;
+}
+.table{
+    width: 100%;
+}
+.table td{
+    padding-bottom: 10px;
+}
+.temp{
+    color: #86898f;
+}
+.link-list{
+    list-style: none;
+    padding: 0;
+}
+.link-list li{
+padding-bottom: 5px;
+margin-bottom: 10px;
+border-bottom: 1px solid #ccc;
+}
+.contact h2{
+    text-align: center;
+} 
+.form-group label{
+    display: block;
+    font-style: 14px;
+    color: #86898f;
+}
+.form-group input{
+    margin-bottom: 20px; 
+    width: 100%;
+    box-sizing:border-box ;
+    border: none;
+    background:transparent;
+    border-bottom: 1px solid #ccc;
+    color: balck;
+    pad: 15px 0px 10px;
+    outline: none;
+    font-family: inherit;
+}
